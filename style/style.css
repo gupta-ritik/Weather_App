@@ -5,7 +5,11 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #222;
+    /* background-color: #222; */
+    background-image: url(/background.jpg);
+    background-position: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .card{
     width: 90%;
